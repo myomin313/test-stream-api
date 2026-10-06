@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161950634878",
+    "project_id": "devTestStream-3dccb",
+    "storage_bucket": "devTestStream-3dccb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161950634878:android:2f81520b69fb653f68192f",
+        "android_client_info": {
+          "package_name": "com.android.TestStream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK_JjDxJFHRSKFySj5j_Qj8Xnwm-_guDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

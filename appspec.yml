@@ -1,0 +1,6 @@
+version: 0.0
+os: linux
+files:
+  - source: /
+    destination: /home/dev-TestStream/public_html/
+    file_exists_behavior: OVERWRITE

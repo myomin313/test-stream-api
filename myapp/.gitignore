@@ -1,0 +1,5 @@
+node_modules/
+.pm2/
+*firebase-adminsdk*.json
+.env
+.env.*

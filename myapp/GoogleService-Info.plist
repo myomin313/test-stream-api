@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBZX8cO6wu1QczKv4_QJXVtkLT03ZMXGeI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>161950634878</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.qglobegames.TestStream</string>
+	<key>PROJECT_ID</key>
+	<string>devTestStream-3dccb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>devTestStream-3dccb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:161950634878:ios:1cbc86b83fab59b368192f</string>
+</dict>
+</plist>
